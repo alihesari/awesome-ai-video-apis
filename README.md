@@ -152,6 +152,7 @@ Every entry links to the provider's official pricing or API docs page. Prices ch
 - [FFmpeg](https://ffmpeg.org/documentation.html) - The standard command line tool for decoding, encoding and filtering video.
 - [LiveKit Agents](https://docs.livekit.io/agents) - Framework for realtime voice and video agents on WebRTC. License: Apache-2.0.
 - [MoviePy](https://zulko.github.io/moviepy) - Python library for cutting, compositing and rendering video. License: MIT.
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Local-first TypeScript CLI and MCP toolkit for coding agents to compose, edit and assemble video through an editable plan.json. License: MIT; optional model providers charge separately.
 - [Pipecat](https://docs.pipecat.ai) - Python framework for realtime voice and multimodal pipelines. License: BSD-2-Clause.
 - [Remotion](https://remotion.dev/license) - Renders video from React components, with a paid license for companies.
 - [Revideo](https://re.video) - TypeScript library for programmatic video built on Motion Canvas. License: MIT.
